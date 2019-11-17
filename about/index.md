@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-<center><a href="http://greenblatt92.github.io"><b>greenblatt</b></a>s/w dev, problem solving, and life</center>
+<center>s/w dev, problem solving, and life</center>
 
 ## Features
 
