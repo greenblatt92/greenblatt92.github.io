@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "개인정보 처리 방침(Castle Arena)"
+title: "개인정보 처리 방침/Privacy Policy (Maze Castle)"
 date: 2021-05-01
-excerpt: "Privacy Policy(Castle Arena)"
+excerpt: "Privacy Policy(Maze Castle)"
 tags: [privacy policy]
 comments: false
 ---
